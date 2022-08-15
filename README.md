@@ -1,3 +1,7 @@
+## Project Details
+
+This is my attempt at practicing using infra as code (terraform) to create a lambda to deploy my python function and to create a role and policy. 
+
 ## Assume Role Policy 
 
 An assume role policy is a special policy associated with a role that controls which principals (users, other roles, AWS services, etc) can "assume" the role. Assuming a role means generating temporary credentials to act with the privileges granted by the access policies associated with that role.
